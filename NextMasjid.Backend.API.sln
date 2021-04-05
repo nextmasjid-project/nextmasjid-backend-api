@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextMasjid.Backend.API", "NextMasjid.Backend.API\NextMasjid.Backend.API.csproj", "{051DDFD7-B553-42BB-AB90-284B910E221B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{051DDFD7-B553-42BB-AB90-284B910E221B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051DDFD7-B553-42BB-AB90-284B910E221B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051DDFD7-B553-42BB-AB90-284B910E221B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051DDFD7-B553-42BB-AB90-284B910E221B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {099A6B1F-A5D2-4B68-B029-1AC94AB2284F}
+	EndGlobalSection
+EndGlobal
