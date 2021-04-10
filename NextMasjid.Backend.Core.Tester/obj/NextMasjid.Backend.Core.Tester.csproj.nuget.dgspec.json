@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/NextMasjid.Backend.Core.Tester.csproj": {}
+  },
+  "projects": {
+    "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/NextMasjid.Backend.Core.Tester.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/NextMasjid.Backend.Core.Tester.csproj",
+        "projectName": "NextMasjid.Backend.Core.Tester",
+        "projectPath": "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/NextMasjid.Backend.Core.Tester.csproj",
+        "packagesPath": "/Users/waleed/.nuget/packages/",
+        "outputPath": "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/waleed/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/NextMasjid.Backend.Core.csproj": {
+                "projectPath": "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/NextMasjid.Backend.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/NextMasjid.Backend.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/NextMasjid.Backend.Core.csproj",
+        "projectName": "NextMasjid.Backend.Core",
+        "projectPath": "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/NextMasjid.Backend.Core.csproj",
+        "packagesPath": "/Users/waleed/.nuget/packages/",
+        "outputPath": "/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/waleed/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

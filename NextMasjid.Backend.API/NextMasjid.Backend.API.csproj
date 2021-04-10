@@ -15,8 +15,6 @@
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.1" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="NextMasjid.Backend.Core">
-      <HintPath>..\..\NextMasjid.Backend.Core\NextMasjid.Backend.Core\bin\Release\netcoreapp3.1\NextMasjid.Backend.Core.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\NextMasjid.Backend.Core\NextMasjid.Backend.Core.csproj" />
   </ItemGroup>
 </Project>

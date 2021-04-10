@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/waleed/.dotnet/store/|arch|/|tfm|",
-      "/Users/waleed/.nuget/packages",
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Users\\tanve\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tanve\\.nuget\\packages"
     ]
   }
 }

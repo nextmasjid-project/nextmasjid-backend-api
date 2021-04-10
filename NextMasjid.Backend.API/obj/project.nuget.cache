@@ -1,16 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "9qH+GL1EF0zSkIRo5LIEkXMgdgou6z/NZB8A4RevtybUYPu/a+rIGQZrWc3NUEctIgvQf5+FWvfNMJm8hymejA==",
+  "dgSpecHash": "q902g1uJ67ZWTIm4lE000Bcvwvyeu8eZ1MOtGpN6nEoJLHS6ndJC5ZjwTwezJrjAOt5vzZ9TURPzpAZkbB/5Ew==",
   "success": true,
-  "projectFilePath": "/Users/waleed/Projects/NextMasjid.Backend.API/NextMasjid.Backend.API/NextMasjid.Backend.API.csproj",
+  "projectFilePath": "C:\\Users\\tanve\\Source\\Repos\\nextmasjid-project\\nextmasjid-backend-api\\NextMasjid.Backend.API\\NextMasjid.Backend.API.csproj",
   "expectedPackageFiles": [
-    "/Users/waleed/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/waleed/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/waleed/.nuget/packages/swashbuckle.aspnetcore/6.1.1/swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
-    "/Users/waleed/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.1/swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
-    "/Users/waleed/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.1/swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
-    "/Users/waleed/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.1/swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512",
-    "/Users/waleed/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\tanve\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tanve\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tanve\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
+    "C:\\Users\\tanve\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
+    "C:\\Users\\tanve\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
+    "C:\\Users\\tanve\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512"
   ],
   "logs": []
 }

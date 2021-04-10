@@ -1,0 +1,15 @@
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/bin/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.deps.json
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/bin/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.runtimeconfig.json
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/bin/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.runtimeconfig.dev.json
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/bin/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.dll
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/bin/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.pdb
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/bin/Release/netcoreapp3.1/NextMasjid.Backend.Core.dll
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/bin/Release/netcoreapp3.1/NextMasjid.Backend.Core.pdb
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.csprojAssemblyReference.cache
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.AssemblyInfoInputs.cache
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.AssemblyInfo.cs
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.csproj.CoreCompileInputs.cache
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.csproj.CopyComplete
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.dll
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.pdb
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core.Tester/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.Tester.genruntimeconfig.cache

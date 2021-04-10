@@ -72,6 +72,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "NextMasjid.Backend.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NextMasjid.Backend.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NextMasjid.Backend.Core.dll": {}
+        }
       }
     }
   },
@@ -191,10 +201,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "NextMasjid.Backend.Core/1.0.0": {
+      "type": "project",
+      "path": "../NextMasjid.Backend.Core/NextMasjid.Backend.Core.csproj",
+      "msbuildProject": "../NextMasjid.Backend.Core/NextMasjid.Backend.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "NextMasjid.Backend.Core >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.1.1",
       "Swashbuckle.AspNetCore.Swagger >= 6.1.1",
       "Swashbuckle.AspNetCore.SwaggerGen >= 6.1.1",
@@ -202,34 +218,36 @@
     ]
   },
   "packageFolders": {
-    "/Users/waleed/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\tanve\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/waleed/Projects/NextMasjid.Backend.API/NextMasjid.Backend.API/NextMasjid.Backend.API.csproj",
+      "projectUniqueName": "C:\\Users\\tanve\\Source\\Repos\\nextmasjid-project\\nextmasjid-backend-api\\NextMasjid.Backend.API\\NextMasjid.Backend.API.csproj",
       "projectName": "NextMasjid.Backend.API",
-      "projectPath": "/Users/waleed/Projects/NextMasjid.Backend.API/NextMasjid.Backend.API/NextMasjid.Backend.API.csproj",
-      "packagesPath": "/Users/waleed/.nuget/packages/",
-      "outputPath": "/Users/waleed/Projects/NextMasjid.Backend.API/NextMasjid.Backend.API/obj/",
+      "projectPath": "C:\\Users\\tanve\\Source\\Repos\\nextmasjid-project\\nextmasjid-backend-api\\NextMasjid.Backend.API\\NextMasjid.Backend.API.csproj",
+      "packagesPath": "C:\\Users\\tanve\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tanve\\Source\\Repos\\nextmasjid-project\\nextmasjid-backend-api\\NextMasjid.Backend.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/waleed/.config/NuGet/NuGet.Config"
+        "C:\\Users\\tanve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tanve\\Source\\Repos\\nextmasjid-project\\nextmasjid-backend-api\\NextMasjid.Backend.Core\\NextMasjid.Backend.Core.csproj": {
+              "projectPath": "C:\\Users\\tanve\\Source\\Repos\\nextmasjid-project\\nextmasjid-backend-api\\NextMasjid.Backend.Core\\NextMasjid.Backend.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -269,12 +287,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -283,7 +295,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

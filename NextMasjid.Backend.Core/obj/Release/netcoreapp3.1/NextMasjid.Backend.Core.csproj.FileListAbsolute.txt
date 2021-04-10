@@ -1,0 +1,8 @@
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/bin/Release/netcoreapp3.1/NextMasjid.Backend.Core.deps.json
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/bin/Release/netcoreapp3.1/NextMasjid.Backend.Core.dll
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/bin/Release/netcoreapp3.1/NextMasjid.Backend.Core.pdb
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.AssemblyInfoInputs.cache
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.AssemblyInfo.cs
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.csproj.CoreCompileInputs.cache
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.dll
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/Release/netcoreapp3.1/NextMasjid.Backend.Core.pdb

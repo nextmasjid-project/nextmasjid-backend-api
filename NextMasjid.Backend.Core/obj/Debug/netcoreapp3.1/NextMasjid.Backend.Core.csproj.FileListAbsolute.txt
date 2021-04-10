@@ -1,0 +1,16 @@
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/bin/Debug/netcoreapp3.1/NextMasjid.Backend.Core.deps.json
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/bin/Debug/netcoreapp3.1/NextMasjid.Backend.Core.dll
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/bin/Debug/netcoreapp3.1/NextMasjid.Backend.Core.pdb
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/Debug/netcoreapp3.1/NextMasjid.Backend.Core.AssemblyInfoInputs.cache
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/Debug/netcoreapp3.1/NextMasjid.Backend.Core.AssemblyInfo.cs
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/Debug/netcoreapp3.1/NextMasjid.Backend.Core.csproj.CoreCompileInputs.cache
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/Debug/netcoreapp3.1/NextMasjid.Backend.Core.dll
+/Users/waleed/Projects/NextMasjid.Backend.Core/NextMasjid.Backend.Core/obj/Debug/netcoreapp3.1/NextMasjid.Backend.Core.pdb
+C:\Users\tanve\source\repos\nextmasjid-project\nextmasjid-backend-api\NextMasjid.Backend.Core\bin\Debug\netcoreapp3.1\NextMasjid.Backend.Core.deps.json
+C:\Users\tanve\source\repos\nextmasjid-project\nextmasjid-backend-api\NextMasjid.Backend.Core\bin\Debug\netcoreapp3.1\NextMasjid.Backend.Core.dll
+C:\Users\tanve\source\repos\nextmasjid-project\nextmasjid-backend-api\NextMasjid.Backend.Core\bin\Debug\netcoreapp3.1\NextMasjid.Backend.Core.pdb
+C:\Users\tanve\source\repos\nextmasjid-project\nextmasjid-backend-api\NextMasjid.Backend.Core\obj\Debug\netcoreapp3.1\NextMasjid.Backend.Core.AssemblyInfoInputs.cache
+C:\Users\tanve\source\repos\nextmasjid-project\nextmasjid-backend-api\NextMasjid.Backend.Core\obj\Debug\netcoreapp3.1\NextMasjid.Backend.Core.AssemblyInfo.cs
+C:\Users\tanve\source\repos\nextmasjid-project\nextmasjid-backend-api\NextMasjid.Backend.Core\obj\Debug\netcoreapp3.1\NextMasjid.Backend.Core.csproj.CoreCompileInputs.cache
+C:\Users\tanve\source\repos\nextmasjid-project\nextmasjid-backend-api\NextMasjid.Backend.Core\obj\Debug\netcoreapp3.1\NextMasjid.Backend.Core.dll
+C:\Users\tanve\source\repos\nextmasjid-project\nextmasjid-backend-api\NextMasjid.Backend.Core\obj\Debug\netcoreapp3.1\NextMasjid.Backend.Core.pdb
